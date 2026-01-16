@@ -6,7 +6,6 @@ import LoadingSpinner from '../Components/LoadingSpinner';
 
 const Home = () => {
     const [loading, setLoading] = useState(true)
-
     setTimeout(() => {
         setLoading(false);
     }, 600);

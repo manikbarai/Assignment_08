@@ -9,7 +9,6 @@ export const loadInstallApps = () =>{
 }
 
 // save
-
 export const updateList = (app) =>{
     const installApps = loadInstallApps()
     try{

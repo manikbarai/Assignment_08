@@ -5,9 +5,7 @@ import useApps from '../hooks/useApps';
 import LoadingSpinner from './LoadingSpinner';
 
 const TrendingApps = () => {
-    
     const {apps} =useApps()
-    
     const trendingApps = apps.slice(0, 8)
     return (
         <div>

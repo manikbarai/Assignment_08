@@ -5,7 +5,6 @@ import SkeletonLoader from '../Components/SkeletonLoader';
 import AppNotFound from './AppNotFound';
 import LoadingSpinner from '../Components/LoadingSpinner';
 
-
 const Apps = () => {
     const { apps, loading } = useApps()
     const [search, setSearch] = useState('')

@@ -5,7 +5,6 @@ import Navbar from '../Components/Navbar';
 import Footer from '../Components/Footer';
 const ErrorPage = () => {
     const navigate =useNavigate()
-    
     return (
         <>
         <Navbar/>
