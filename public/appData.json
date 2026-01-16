@@ -1,0 +1,561 @@
+[
+  {
+    "image": "https://i.ibb.co.com/VYC813sV/One.png",
+    "title": "ZenFlow",
+    "companyName": "Mindful Tech Inc.",
+    "id": 1,
+    "description": "ZenFlow provides a comprehensive and minimalist task management experience specifically designed to help users reduce daily anxiety while significantly increasing mental focus. By utilizing advanced organizational algorithms and soothing visual interfaces, the application allows you to categorize your life goals into manageable segments. It is the perfect digital companion for professionals seeking a peaceful workflow environment that prioritizes meaningful productivity over stressful multitasking and constant digital notification interruptions.",
+    "size": 45,
+    "reviews": "125K",
+    "ratingAvg": 4.8,
+    "downloads": "1.2M",
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 50 },
+      { "name": "4 star", "count": 150 },
+      { "name": "5 star", "count": 1000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/bgvLMNc9/Two.png",
+    "title": "Pixel Dash",
+    "companyName": "Retro Games Studio",
+    "id": 2,
+    "description": "Experience the ultimate high-speed excitement with this 8-bit endless runner featuring fully customizable characters and retro aesthetics. Players must navigate through increasingly difficult procedural levels while collecting rare power-ups and dodging dangerous obstacles at every single turn. With its nostalgic soundtrack and modern gameplay mechanics, this title offers an addictive challenge that keeps you coming back for more high-score chasing action. Join millions of players worldwide today and dominate.",
+    "size": 120,
+    "reviews": "89K",
+    "ratingAvg": 4.2,
+    "downloads": "2.0M",
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 2000 },
+      { "name": "5 star", "count": 5000 }
+    ]
+  },
+ 
+  {
+    "image": "https://i.ibb.co.com/jPFwhNBw/Four.png",
+    "title": "FitTracker Pro",
+    "companyName": "Health Metrics",
+    "id": 4,
+    "description": "Unlock the true potential of your body with advanced analytics designed for tracking your daily workouts and complex sleep cycles with precision. FitTracker Pro integrates seamlessly with your wearable devices to provide real-time feedback on heart rate variability and caloric expenditure throughout the day. By analyzing your long-term health trends, the application offers personalized suggestions to optimize your recovery time and improve your overall athletic performance and physical wellness.",
+    "size": 88,
+    "reviews": "32K",
+    "ratingAvg": 4.6,
+    "downloads": "2.5M",
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 350 },
+      { "name": "4 star", "count": 700 },
+      { "name": "5 star", "count": 2000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/XmCcWpt/Five.png",
+    "title": "SkyView AR",
+    "companyName": "Astro Explore",
+    "id": 5,
+    "description": "Transform your smartphone into a powerful window to the cosmos by simply pointing it at the night sky to identify stars and planets instantly. Using cutting-edge augmented reality technology, SkyView AR overlays constellation maps and satellite paths directly onto your camera feed for an immersive educational experience. Learn about deep space history and astronomical events through our extensive database that caters to amateur stargazers and professional astronomers alike.",
+    "size": 210,
+    "reviews": "165K",
+    "ratingAvg": 4.9,
+    "downloads": "5.0M",
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 2000 },
+      { "name": "5 star", "count": 13000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Z6Vm9qs8/Six.png",
+    "title": "BudgetWise",
+    "companyName": "FinTrack Solutions",
+    "id": 6,
+    "description": "Take full control of your financial future using BudgetWise, an automated expense tracking application that provides deep monthly savings insights and custom reports. By securely linking your bank accounts, the app automatically categorizes every single transaction and alerts you when you are nearing your spending limits for the month. Achieve your long-term financial goals faster with personalized coaching tips and intuitive visualizations of your wealth growth over several years.",
+    "size": 28,
+    "reviews": "122K",
+    "ratingAvg": 4.1,
+    "downloads": "3.0M",
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 250 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 800 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Txwg74fb/Seven.png",
+    "title": "Language Leap",
+    "companyName": "Linguist Lab",
+    "id": 7,
+    "description": "Master over fifty different world languages through highly interactive AI-driven conversations that mimic real-life scenarios and cultural nuances. Language Leap focuses on practical fluency by providing immediate feedback on your pronunciation and grammar while you practice speaking with our intelligent virtual tutors. Whether you are preparing for an international trip or just wanting to expand your cognitive horizons, this application makes the difficult process of learning enjoyable and efficient.",
+    "size": 65,
+    "reviews": "425K",
+    "ratingAvg": 4.7,
+    "downloads": "10M",
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 1500 },
+      { "name": "3 star", "count": 3000 },
+      { "name": "4 star", "count": 7000 },
+      { "name": "5 star", "count": 30000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/DDZ6P6fv/Eight.png",
+    "title": "Prism Edit",
+    "companyName": "Creative Suite",
+    "id": 8,
+    "description": "Prism Edit offers professional-grade photo filters and advanced retouching tools designed specifically for mobile photographers who demand high-quality results instantly. Our proprietary image processing engine allows you to adjust lighting, color balance, and texture with surgical precision using an intuitive touch interface. From vintage film looks to modern high-dynamic range styles, this application provides everything you need to transform your standard mobile snapshots into stunning works of art.",
+    "size": 140,
+    "reviews": "336K",
+    "ratingAvg": 4.3,
+    "downloads": "5.9M",
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 2000 },
+      { "name": "5 star", "count": 3000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/VYRZ1rtm/Nine.png",
+    "title": "CodeSpark",
+    "companyName": "DevAcademy",
+    "id": 9,
+    "description": "Begin your journey into software development by learning Python, JavaScript, and HTML through bite-sized lessons that fit perfectly into your busy schedule. CodeSpark utilizes a hands-on approach where you write actual code in an integrated mobile editor to solve challenging logic puzzles. As you progress through the curriculum, you will build real projects and earn certificates that showcase your newfound technical skills to potential employers around the globe.",
+    "size": 55,
+    "reviews": "112K",
+    "ratingAvg": 4.4,
+    "downloads": "2.5M",
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 250 },
+      { "name": "5 star", "count": 600 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/mVGgbPNs/Ten.png",
+    "title": "WeatherNow",
+    "companyName": "Meteor Systems",
+    "id": 10,
+    "description": "Stay ahead of the elements with WeatherNow, providing hyper-local forecasts and real-time storm tracking with incredible accuracy for your specific location. Our advanced radar technology and predictive modeling ensure you receive timely alerts about precipitation, wind gusts, and severe atmospheric conditions before they arrive. The customizable dashboard allows you to monitor global weather patterns or focus on your own backyard, making it an essential tool for every traveler.",
+    "size": 18,
+    "reviews": "557K",
+    "ratingAvg": 4.6,
+    "downloads": "20M",
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 2000 },
+      { "name": "5 star", "count": 6000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/FdmcgfG/Eleven.png",
+    "title": "DeepSleep",
+    "companyName": "Wellness Audio",
+    "id": 11,
+    "description": "Drift away into a peaceful slumber with DeepSleep, featuring curated ambient sounds and engaging bedtime stories designed specifically to promote better rest. Our library contains thousands of high-fidelity recordings of nature, white noise, and relaxing melodies that help quiet the mind after a long day. With integrated sleep tracking and a smart alarm that wakes you up during your lightest sleep phase, you will wake up feeling refreshed.",
+    "size": 95,
+    "reviews": "54K",
+    "ratingAvg": 4.8,
+    "downloads": "0.9M",
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 1000 },
+      { "name": "5 star", "count": 4000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/sdg8XNPp/Twelve.png",
+    "title": "NoteNest",
+    "companyName": "Scribble Inc.",
+    "id": 12,
+    "description": "NoteNest allows you to seamlessly synchronize all your personal and professional notes across every device you own with full markdown support included. Organize your thoughts using a powerful tagging system and nested folders that make finding information fast and effortless during busy workdays. Whether you are drafting a complex novel or simply making a quick grocery list, our secure cloud encryption ensures your data remains private and accessible.",
+    "size": 22,
+    "reviews": "158K",
+    "ratingAvg": 4.0,
+    "downloads": "4.5M",
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 500 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Lhh9v57D/Thirteen.png",
+    "title": "CoinView",
+    "companyName": "BlockData",
+    "id": 13,
+    "description": "Keep a constant eye on the volatile market with CoinView, which offers real-time cryptocurrency prices and professional portfolio management tools for modern investors. Our application aggregates data from hundreds of global exchanges to provide the most accurate pricing and volume statistics available on mobile. Set custom price alerts and track your gains or losses over time with detailed charts that help you make informed decisions about your digital.",
+    "size": 40,
+    "reviews": "265K",
+    "ratingAvg": 3.9,
+    "downloads": "1.9M",
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 800 },
+      { "name": "5 star", "count": 1000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/0VXtzMm5/FOurteen.png",
+    "title": "TransitGo",
+    "companyName": "Urban Mobility",
+    "id": 14,
+    "description": "Navigate your city like a local using TransitGo to find the absolute fastest route using buses, trains, and electric bikes. Our real-time data integration ensures you never miss a connection by providing live arrival times and service delay notifications directly to your lock screen. Whether you are commuting to work or exploring a brand new neighborhood, this comprehensive navigation tool simplifies your journey while reducing your overall carbon footprint.",
+    "size": 35,
+    "reviews": "269K",
+    "ratingAvg": 4.4,
+    "downloads": "3.0M",
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 3000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/zVWHmnkt/Fifteen.png",
+    "title": "PawsTrack",
+    "companyName": "Pet Care Hub",
+    "id": 15,
+    "description": "Connecting with local dog walkers and professional pet sitters has never been easier than with PawsTrack, your neighborhood pet care solution. Our platform rigorously vets every service provider to ensure your furry friends receive the highest quality care and safety during their daily adventures. Track your dog's walking route via live GPS and receive cute photo updates throughout the day so you can stay connected while working away.",
+    "size": 42,
+    "reviews": "958K",
+    "ratingAvg": 4.7,
+    "downloads": "8M",
+    "ratings": [
+      { "name": "1 star", "count": 10 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 50 },
+      { "name": "4 star", "count": 200 },
+      { "name": "5 star", "count": 700 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/7tdQ4JYv/Sixteen.png",
+    "title": "RoomFixer",
+    "companyName": "Interior AR",
+    "id": 16,
+    "description": "Revolutionize your home renovation process by using RoomFixer to visualize different furniture styles and paint colors in your room using augmented reality. This intuitive design tool allows you to measure spaces accurately with your camera and place high-fidelity 3D models of popular decor items into your environment. Share your creative visions with family or professional contractors to ensure everyone is on the same page before you start buying.",
+    "size": 180,
+    "reviews": "228K",
+    "ratingAvg": 4.2,
+    "downloads": "5.0M",
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 250 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 1000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/8LWsc412/Seventeen.png",
+    "title": "MathWizard",
+    "companyName": "EduPlay",
+    "id": 17,
+    "description": "Sharpen your mind with MathWizard, a incredibly fun game designed to improve mental math skills for players of all ages and backgrounds. Engage in rapid-fire arithmetic challenges that adapt to your specific skill level, ensuring you are always being pushed to improve your speed and accuracy. Compete against others on global leaderboards and unlock various achievements as you master everything from basic addition to complex algebraic equations in record.",
+    "size": 25,
+    "reviews": "999K",
+    "ratingAvg": 4.8,
+    "downloads": "10M",
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 2000 },
+      { "name": "5 star", "count": 9000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/vCVPQwcz/Eighteen.png",
+    "title": "ShieldVPN",
+    "companyName": "Secure Nets",
+    "id": 18,
+    "description": "Enjoy truly private and secure internet browsing with ShieldVPN, featuring thousands of high-speed servers located in over sixty countries worldwide. Our military-grade encryption protocols protect your sensitive personal data from hackers and intrusive tracking while you access your favorite streaming content from anywhere. With a strict no-logs policy and unlimited bandwidth, you can surf the web with complete peace of mind knowing your digital footprint is entirely hidden.",
+    "size": 15,
+    "reviews": "1.0M",
+    "ratingAvg": 4.5,
+    "downloads": "15M",
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 1500 },
+      { "name": "3 star", "count": 2500 },
+      { "name": "4 star", "count": 5000 },
+      { "name": "5 star", "count": 18000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/6JNZYbx7/Nineteen.png",
+    "title": "GuitarTuner",
+    "companyName": "SoundWave",
+    "id": 19,
+    "description": "Achieve perfect pitch every time with GuitarTuner, an incredibly accurate chromatic tuner designed for guitar, ukulele, bass, and many other stringed instruments. Our advanced signal processing technology works perfectly even in noisy environments, making it the ideal tool for live performances or backstage rehearsals. Whether you are a beginner learning your first chords or a professional musician on world tour, this app provides the reliability you need for music.",
+    "size": 20,
+    "reviews": "1.8M",
+    "ratingAvg": 4.9,
+    "downloads": "20M",
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 500 },
+      { "name": "4 star", "count": 5000 },
+      { "name": "5 star", "count": 50000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/sdkfbBz4/Twenty.png",
+    "title": "DiaryFlow",
+    "companyName": "Personal Memories",
+    "id": 20,
+    "description": "Keep your most private thoughts safe with DiaryFlow, a secure and encrypted personal journal that supports photo attachments and daily mood tracking. Our application features a beautiful, customizable interface that allows you to express yourself freely while knowing your memories are protected by biometric locks. Reflect on your personal growth over time using our powerful search and organization tools that make revisiting your past entries a truly wonderful experience.",
+    "size": 38,
+    "reviews": "315K",
+    "ratingAvg": 4.4,
+    "downloads": "6.0M",
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 1000 },
+      { "name": "5 star", "count": 1500 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/5xW0rqr7/Twenty-One.png",
+    "title": "ScanPro",
+    "companyName": "Office Tools",
+    "id": 21,
+    "description": "Immediately turn your smartphone into a high-quality PDF document scanner that produces crystal clear digital copies of any physical paper. ScanPro uses intelligent edge detection and perspective correction to ensure your scans look professional and are perfectly aligned every single time. With integrated OCR technology, you can convert scanned images into searchable text and share them via email or cloud storage services with just a few simple taps.",
+    "size": 48,
+    "reviews": "236K",
+    "ratingAvg": 4.6,
+    "downloads": "2.5M",
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 250 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 5000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/C5nrJwPP/Twenty-two.png",
+    "title": "HabitHero",
+    "companyName": "Success Path",
+    "id": 22,
+    "description": "Gamify your daily routine and build lasting positive habits with HabitHero, the app that makes self-improvement feel like an epic adventure game. Track your progress across various categories like health, learning, and productivity while earning experience points and leveling up your virtual character. Join global challenges and compete with friends to stay motivated and accountable, transforming your small daily actions into significant long-term success and a better life.",
+    "size": 52,
+    "reviews": "145K",
+    "ratingAvg": 4.3,
+    "downloads": "2M",
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 280 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 600 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Df649tk4/Twenty-three.png",
+    "title": "BrewFinder",
+    "companyName": "Cafe Culture",
+    "id": 23,
+    "description": "Discover the hidden gems of the specialty coffee world with BrewFinder, which helps you locate the best local cafes rated by real connoisseurs. Our community-driven database provides detailed information on bean origins, brewing methods, and atmospheric vibes to ensure you find your perfect cup of joe. Whether you need a quiet place to work or a vibrant spot for socializing, our intelligent filters guide you to the ideal.",
+    "size": 29,
+    "reviews": "111K",
+    "ratingAvg": 4.1,
+    "downloads": "0.5M",
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 130 },
+      { "name": "4 star", "count": 200 },
+      { "name": "5 star", "count": 200 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/nsvSJ7LM/Twenty-Four.png",
+    "title": "NovaChat",
+    "companyName": "Galaxy Social",
+    "id": 24,
+    "description": "Protect your digital conversations with NovaChat, a privacy-focused messaging application that features end-to-end encryption and self-destructing messages for maximum security. Our platform ensures that your personal data remains strictly between you and your recipients, with no third-party access allowed. Enjoy high-quality voice calls, video chats, and group messaging without worrying about intrusive data harvesting or targeted advertisements tracking your every single word and personal daily activity.",
+    "size": 60,
+    "reviews": "185K",
+    "ratingAvg": 4.0,
+    "downloads": "5.9M",
+    "ratings": [
+      { "name": "1 star", "count": 1500 },
+      { "name": "2 star", "count": 2000 },
+      { "name": "3 star", "count": 3000 },
+      { "name": "4 star", "count": 5000 },
+      { "name": "5 star", "count": 7000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/4g5VfCG2/Twenty-Five.png",
+    "title": "PodSphere",
+    "companyName": "Audio World",
+    "id": 25,
+    "description": "Stream and download millions of podcast episodes from around the globe for free with PodSphere, the ultimate audio entertainment platform. Our intelligent discovery engine recommends new shows based on your specific listening habits, ensuring you always have something interesting to hear. With advanced features like variable playback speed, silence removal, and custom playlists, you can tailor your listening experience to perfectly suit your busy lifestyle and daily commute.",
+    "size": 44,
+    "reviews": "123K",
+    "ratingAvg": 4.5,
+    "downloads": "3.5M",
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 7000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/pgbdttd/Twenty-six.png",
+    "title": "Leafy",
+    "companyName": "Green Thumb",
+    "id": 26,
+    "description": "Ensure your houseplants thrive with Leafy, the all-in-one botanical assistant that provides watering reminders and instant plant identification using just your camera. Our extensive database offers expert care tips for thousands of different species, covering everything from sunlight requirements to soil preferences and common pest control. Connect with a community of fellow plant lovers to share advice and showcase your growing indoor jungle as you become a.",
+    "size": 31,
+    "reviews": "118K",
+    "ratingAvg": 4.7,
+    "downloads": "0.8M",
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 1000 },
+      { "name": "5 star", "count": 2700 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/ZzJvg1Pn/Twenty-seven.png",
+    "title": "TradeFlow",
+    "companyName": "Market Master",
+    "id": 27,
+    "description": "TradeFlow provides a powerful commission-free stock trading platform designed to help both beginners and seasoned experts navigate the global financial markets. Access real-time data, professional research reports, and advanced charting tools that allow you to analyze trends with incredible precision on your mobile device. Whether you are building a long-term retirement portfolio or engaging in quick daily trades, our secure and intuitive interface makes investing accessible to everyone.",
+    "size": 68,
+    "reviews": "265K",
+    "ratingAvg": 4.2,
+    "downloads": "4.0M",
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 1500 },
+      { "name": "3 star", "count": 3500 },
+      { "name": "4 star", "count": 5000 },
+      { "name": "5 star", "count": 8000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/rRq50qSB/Twenty-Eight.png",
+    "title": "Yoga Daily",
+    "companyName": "Stretch & Flow",
+    "id": 28,
+    "description": "Improve your flexibility and mental clarity with Yoga Daily, featuring hundreds of guided sessions ranging from five to sixty minutes in length. Our expert instructors lead you through various practices like Vinyasa, Hatha, and restorative yoga, making it suitable for all experience levels and body types. Track your progress over time and integrate your practice with your daily schedule to achieve a more balanced and harmonious physical lifestyle.",
+    "size": 115,
+    "reviews": "165K",
+    "ratingAvg": 4.8,
+    "downloads": "1.2M",
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 1200 },
+      { "name": "5 star", "count": 4500 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/5WZRxRdt/Twenty-Nine.png",
+    "title": "TickDone",
+    "companyName": "Productive Labs",
+    "id": 29,
+    "description": "TickDone is the ultimate collaborative to-do list application specifically designed to help modern teams and busy families stay organized and productive together. Assign tasks to specific members, set important deadlines, and share detailed notes in real-time to ensure every project stays on the right track from start to finish. With cross-platform synchronization and customizable notifications, you will never miss a critical update or forget a vital task again.",
+    "size": 24,
+    "reviews": "456K",
+    "ratingAvg": 4.4,
+    "downloads": "9.0M",
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 1000 },
+      { "name": "5 star", "count": 1500 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/S4xzsZXw/Thirty.png",
+    "title": "WaveForm",
+    "companyName": "Audio Studio",
+    "id": 30,
+    "description": "Experience the power of a professional recording studio in your pocket with WaveForm, a high-performance multitrack audio editor for various mobile devices. Perfectly suited for field recording, podcast production, and music composition, this app offers a suite of advanced effects and precision editing tools for every user. Seamlessly export your final projects in high-fidelity formats and share them directly to your favorite social media platforms or cloud.",
+    "size": 130,
+    "reviews": "115K",
+    "ratingAvg": 4.1,
+    "downloads": "1.5M",
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 250 },
+      { "name": "4 star", "count": 350 },
+      { "name": "5 star", "count": 300 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/27rZz0Ky/Thirty-one.png",
+    "title": "StellarMap",
+    "companyName": "Celestial Devs",
+    "id": 31,
+    "description": "Explore the wonders of the universe using StellarMap, featuring beautiful 3D star maps and detailed historical information about the major constellations above us. Our application uses your device's location to provide a precise view of the heavens, identifying stars, planets, and even the International Space Station in real-time. Whether you are an amateur astronomer or a curious student, this educational tool makes the vast cosmos feel more accessible.",
+    "size": 195,
+    "reviews": "111K",
+    "ratingAvg": 4.6,
+    "downloads": "0.8M",
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 1200 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Z17HDHFG/Thirty-two.png",
+    "title": "UltraVPN",
+    "companyName": "Global Proxy",
+    "id": 32,
+    "description": "Unlock the full potential of the global internet and browse with complete anonymity using UltraVPN, the fastest proxy service available on the market. With just a single tap, you can bypass geographic restrictions and access your favorite websites and streaming services from any country in the world securely. Our global network of high-speed servers ensures a smooth and lag-free experience while keeping your personal identity and location completely hidden.",
+    "size": 12,
+    "reviews": "789K",
+    "ratingAvg": 4.3,
+    "downloads": "10M",
+    "ratings": [
+      { "name": "1 star", "count": 3000 },
+      { "name": "2 star", "count": 4000 },
+      { "name": "3 star", "count": 8000 },
+      { "name": "4 star", "count": 10000 },
+      { "name": "5 star", "count": 20000 }
+    ]
+  }
+]
