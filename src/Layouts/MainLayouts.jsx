@@ -4,7 +4,6 @@ import Footer from '../Components/Footer';
 import { Outlet } from 'react-router';
 import { ToastContainer } from 'react-toastify';
 
-
 const MainLayouts = () => {
     return (
         <div className='flex flex-col min-h-screen '>
