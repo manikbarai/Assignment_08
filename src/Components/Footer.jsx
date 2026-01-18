@@ -50,7 +50,7 @@ const Footer = () => {
             </footer>
             <hr className=" text-[#2e4256] m-0" />
             <div className="footer sm:footer-horizontal footer-center p-5">
-                <aside className='text-white'>
+                <aside className='text-white '>
                     <p>Copyright © {new Date().getFullYear()} - All right reserved by HERO.IO</p>
                 </aside>
             </div>

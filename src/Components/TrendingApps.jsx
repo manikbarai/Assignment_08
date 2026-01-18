@@ -2,7 +2,6 @@ import React from 'react';
 import { Link} from 'react-router';
 import AppCard from './AppCard';
 import useApps from '../hooks/useApps';
-import LoadingSpinner from './LoadingSpinner';
 
 const TrendingApps = () => {
     const {apps} =useApps()

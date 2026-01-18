@@ -22,7 +22,6 @@ const AppDetails = () => {
     const { image, title, companyName, downloads,ratingAvg, reviews, size, description, ratings,
     } = app || {}
 
-
     const handleInstallApps = (app) =>{
       setIsDisabled(true)
       updateList(app)
